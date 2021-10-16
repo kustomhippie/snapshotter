@@ -5,7 +5,4 @@ kind: Kustomization
 resources:
   - crds/
 
-commonLabels:
-  app.kubernetes.io/name: snapshotter
-
 ...
